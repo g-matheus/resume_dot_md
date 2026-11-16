@@ -1,6 +1,7 @@
 export const ResumeMdTags = Object.freeze({
-    ptBR: 'pt-BR',
-    enUS: 'en-US',
+    language: 'lang',
+    date: 'date',
+    level: 'level',
 });
 
 export default ResumeMdTags;
